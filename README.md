@@ -1,4 +1,6 @@
 # java1-start
+[![Build Status](https://github.com/jonashackt/java1-start/workflows/build/badge.svg)](https://github.com/jonashackt/java1-start/actions)
+
 Example project to get you started :)
 
 
